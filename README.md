@@ -48,7 +48,7 @@ I believe every PM will become an AI-powered PM. This is my attempt to figure ou
 ## Templates
 
 ### PRD Templates
-- **one-pager.md** - Concise, problem-first format by [Lenny Rachitsky](https://www.lennysnewsletter.com/p/my-product-spec-template)
+- **one-pager.md** - Concise, problem-first format by [Lenny Rachitsky]([https://www.lennysnewsletter.com/p/my-product-spec-template](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37)
 
 More templates coming soon.
 
