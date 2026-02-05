@@ -39,8 +39,17 @@ I believe every PM will become an AI-powered PM. This is my attempt to figure ou
 
 ## Status
 
-**v0.1** - Basic structure created  
+**v0.1** - Basic structure created
 **Next:** Add PRD templates and automation scripts
+
+---
+
+## Templates
+
+### PRD Templates
+- **one-pager.md** - Concise, problem-first format by [Lenny Rachitsky](https://www.lennysnewsletter.com/p/my-product-spec-template)
+
+More templates coming soon.
 
 ---
 
