@@ -9,7 +9,7 @@ source: Template by Lenny Rachitsky
 # [Project Title]
 
 > **Template by **[**Lenny Rachitsky**](https://www.lennysnewsletter.com/)
-> For advice on using this template, [read this post](https://www.lennysnewsletter.com/p/my-product-spec-template).
+> For advice on using this template, [read this post](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37).
 
 ---
 **Author:** [Name]
