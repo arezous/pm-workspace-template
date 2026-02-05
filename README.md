@@ -3,7 +3,7 @@
 
 > Building my operating system for AI-native product work
 
-**Status:** v0.1 - First commit, basic structure in place
+**Status:** v0.2 - Templates and output styles added
 
 ---
 
@@ -39,8 +39,9 @@ I believe every PM will become an AI-powered PM. This is my attempt to figure ou
 
 ## Status
 
+**v0.2** - Templates and output styles added
 **v0.1** - Basic structure created
-**Next:** Add PRD templates and automation scripts
+**Next:** Add frameworks and automation scripts
 
 ---
 
@@ -50,6 +51,36 @@ I believe every PM will become an AI-powered PM. This is my attempt to figure ou
 - **one-pager.md** - Concise, problem-first format by [Lenny Rachitsky](https://www.lennysnewsletter.com/p/my-product-spec-template)
 
 More templates coming soon.
+
+---
+
+## Output Styles
+
+Output styles define HOW to format content for different audiences. They're reusable formatting instructions that work across any template.
+
+### Available Styles
+
+- **executive-brief** - For leadership and board (BLUF, 2 pages, business focus)
+- **engineering-spec** - For dev teams (technical, detailed, complete specs)
+- **design-narrative** - For UX discussions (user-focused, journey-driven)
+- **slack-update** - For quick team updates (casual, 3 bullets max)
+
+### How to Use
+
+Reference styles in your document's YAML frontmatter:
+```yaml
+---
+title: 'My PRD'
+template: 'one-pager'
+style: 'executive-brief'
+---
+```
+
+Or ask Claude to apply a style:
+- "Write this PRD using executive-brief style"
+- "Convert this to engineering-spec style"
+
+See [styles/README.md](styles/README.md) for detailed formatting rules.
 
 ---
 
