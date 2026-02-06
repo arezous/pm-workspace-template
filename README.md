@@ -3,7 +3,7 @@
 
 > Building my operating system for AI-native product work
 
-**Status:** v0.2 - Templates and output styles added
+**Status:** v0.3 - Templates system (PRDs, company context, output styles)
 
 ---
 
