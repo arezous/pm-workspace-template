@@ -49,6 +49,37 @@ I believe every PM will become an AI-powered PM. This is my attempt to figure ou
 
 ### PRD Templates
 - **one-pager.md** - Concise, problem-first format by [Lenny Rachitsky]([https://www.lennysnewsletter.com/p/my-product-spec-template](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37)
+- Templates
+
+### PRD Templates
+- **one-pager.md** - Concise, problem-first format by [Lenny Rachitsky](https://www.lennysnewsletter.com/p/my-product-spec-template)
+### Company Context Templates
+- **COMPANY.md** - Company overview, mission, stage, priorities
+- **PRODUCT.md** - Product description, tech stack, features, metrics
+- **PERSONAS.md** - Detailed user personas with goals, pain points, quotes
+- **COMPETITIVE.md** - Competitive analysis, market positioning, feature matrix
+
+More templates coming soon
+
+## 🎯 **What You'll Have:**
+pm-workspace-template/
+├── templates/
+│   ├── prds/
+│   │   └── one-pager.md
+│   ├── company-context/          ← NEW
+│   │   ├── COMPANY.md
+│   │   ├── PRODUCT.md
+│   │   ├── PERSONAS.md
+│   │   ├── COMPETITIVE.md
+│   │   └── README.md
+│   └── ...
+├── styles/
+│   ├── executive-brief.md
+│   ├── engineering-spec.md
+│   ├── design-narrative.md
+│   └── slack-update.md
+├── README.md
+└── .gitignore
 
 More templates coming soon.
 
@@ -80,7 +111,7 @@ Or ask Claude to apply a style:
 - "Write this PRD using executive-brief style"
 - "Convert this to engineering-spec style"
 
-See [styles/README.md](styles/README.md) for detailed formatting rules.
+See [README.md](./styles/README.md) for detailed formatting rules.
 
 ---
 
